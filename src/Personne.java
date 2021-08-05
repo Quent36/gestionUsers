@@ -4,6 +4,7 @@ public class Personne {
 	private int age;
 	private String nom;
 	private String prenom;
+	private String modif;
 	public Personne() {
 		super();
 	}
